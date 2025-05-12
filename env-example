@@ -1,0 +1,5 @@
+BASE_URL="https://www.zoom.com.br"
+REDIS_HOST=
+REDIS_PORT=
+REDIS_DB=
+REDIS_PREFIX=

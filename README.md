@@ -24,6 +24,8 @@ O serviço é baseado em um _crawler_ configurado para:
 ### Endpoints Disponíveis
 
 #### FastAPI
+![image](https://github.com/user-attachments/assets/efc0a8ac-f2b8-48f8-a764-6b1975377f73)
+
 
 Os seguintes endpoints REST estão disponíveis para interagir com o serviço:
 
@@ -129,8 +131,20 @@ A resposta será um JSON contendo os detalhes do produto, incluindo ficha técni
 complementos e entre outros.
 
 - **(float):`price`** Preço do produto na loja.
+![image](https://github.com/user-attachments/assets/648911a4-5729-483a-bb11-0770812e3024)
+![image](https://github.com/user-attachments/assets/84e37bb4-ab91-4787-85b5-9d7d78f1ec6a)
+
+
 - **(string):`store_name`** Nome da loja onde o produto está disponível.
+![image](https://github.com/user-attachments/assets/d7068c7e-f137-4e99-9084-0be4fc9d8645)
+![image](https://github.com/user-attachments/assets/6361373e-e26f-487f-8b81-a1a250836e67)
+
+
 - **(string):`purchase_link`** Link para compra do produto na loja.
+![image](https://github.com/user-attachments/assets/a5803c59-5ae8-4b17-86c5-4ecb49a18e60)
+![image](https://github.com/user-attachments/assets/d13b2759-65b7-40ad-a02d-cb0ed24e6ed2)
+
+
 
 ``` json
 [
